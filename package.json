@@ -1,0 +1,22 @@
+{
+  "name": "ant",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/salieri256/ant#readme",
+  "bugs": {
+    "url": "https://github.com/salieri256/ant/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salieri256/ant.git"
+  },
+  "license": "ISC",
+  "author": "salieri256",
+  "type": "module",
+  "scripts": {
+    "test": "node src/**/*.test.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.2"
+  }
+}
