@@ -7,4 +7,4 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v6
-      - run: node --test
+      - run: npm test
