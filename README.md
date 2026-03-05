@@ -2,13 +2,15 @@
 
 ## もくじ
 
-- [くじびき（p.8）](./kujibiki/)
-- [三角形（p.21）](./sankakkei/)
-- [Ants（p.23）](./ants/)
-- [部分和問題（p.34）](./bubunwa/)
-- [Lake Counting（p.35）](./lakecounting/)
-- [迷路の最短路（p.37）](./meiro/)
-- [硬貨の問題（p.42）](./kouka/)
+|問題|キーワード|
+|-|-|
+|[くじびき（p.8）](./kujibiki/)||
+|[三角形（p.21）](./sankakkei/)||
+|[Ants（p.23）](./ants/)||
+|[部分和問題（p.34）](./bubunwa/)|`深さ優先探索`|
+|[Lake Counting（p.35）](./lakecounting/)|`深さ優先探索`|
+|[迷路の最短路（p.37）](./meiro/)|`幅優先探索`|
+|[硬貨の問題（p.42）](./kouka/)|`貪欲法`|
 
 ## 参考文献
 
