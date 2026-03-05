@@ -8,6 +8,7 @@
 - [部分和問題（p.34）](./bubunwa/)
 - [Lake Counting（p.35）](./lakecounting/)
 - [迷路の最短路（p.37）](./meiro/)
+- [硬貨の問題（p.42）](./kouka/)
 
 ## 参考文献
 
