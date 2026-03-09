@@ -13,6 +13,7 @@
 |[硬貨の問題（p.42）](./kouka/)|`貪欲法`|
 |[区間スケジューリング問題（p.43）](./kukanscheduling/)|`貪欲法`|
 |[Best Cow Line（p.45）](./bestcowline/)|`貪欲法`|
+|[Saruman's Army（p.47）](./sarumansarmy/)|`貪欲法`|
 
 ## 参考文献
 
