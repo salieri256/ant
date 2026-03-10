@@ -14,6 +14,7 @@
 |[区間スケジューリング問題（p.43）](./kukanscheduling/)|`貪欲法`|
 |[Best Cow Line（p.45）](./bestcowline/)|`貪欲法`|
 |[Saruman's Army（p.47）](./sarumansarmy/)|`貪欲法`|
+|[Fence Repair（p.49）](./fencerepair/)|`貪欲法`|
 
 ## 参考文献
 
