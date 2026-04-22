@@ -1,6 +1,14 @@
-# 🐜 蟻本ノート
+# ざっくりわかるアルゴリズム
 
-## もくじ
+[![Open in GitHub Codespaces][codespaces-icon]][codespaces-url]
+
+[codespaces-icon]: https://github.com/codespaces/badge.svg
+[codespaces-url]: https://codespaces.new/salieri256/ant
+
+アルゴリズムを「ざっくり理解できる」を目的とした学習リポジトリ。
+Codespaces で実験環境を立ち上げることができます。
+
+## 📌 チャプター
 
 |問題|キーワード|
 |-|-|
@@ -16,6 +24,32 @@
 |[Saruman's Army（p.47）](./sarumansarmy/)|`貪欲法`|
 |[Fence Repair（p.49）](./fencerepair/)|`貪欲法`|
 
-## 参考文献
+## 🤔 なぜ？
+
+### アルゴリズムとはなにか
+
+問題を解決するための手順や計算方法のこと。
+アルゴリズムである条件:
+
+- 正しい結果が得られること
+- 必ず終わること
+
+### なぜアルゴリズムを学ぶのか
+
+- 問題を効率的に解くため
+- バグの少ない安定した動作を実現するため
+
+### よいアルゴリズムとはなにか
+
+- 高速
+- 効率的
+- 読みやすい
+- 多様な場面で使える
+
+## 📖 参考文献
 
 - [プログラミングコンテストチャレンジブック [第2版]](https://book.mynavi.jp/ec/products/detail/id=22672)
+
+## 🤝 ライセンス
+
+MIT。詳細は [LICENSE](./LICENSE) を参照してください。
